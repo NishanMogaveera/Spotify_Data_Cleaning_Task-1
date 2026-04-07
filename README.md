@@ -23,5 +23,8 @@ The aim of this project is to clean raw Spotify streaming logs and convert them 
 - NumPy
 - Jupyter Notebook
 
+## 📸 Project Screenshots
+
+
 ## ✅ Outcome
 A fully cleaned and analysis-ready Spotify streaming history dataset ready for further analysis and visualization.
